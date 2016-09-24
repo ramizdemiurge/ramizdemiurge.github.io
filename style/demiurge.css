@@ -1,24 +1,14 @@
-@font-face
-{
-    font-family: CoreSNS;
-    src: url(CoreSansA65Bold.otf);
-}
-@font-face
-{
-    font-family: CoreREG;
-    src: url(CoreSansA45Regular.otf);
-}
 a {
     color: #428bca;
     text-decoration: none;
-    font-family: CoreREG;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 body
 {
     background-color: #FFFFFF;
     color: #333333;
-    font-family: Arial, serif;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 12px;
 }
 .gray
@@ -101,7 +91,7 @@ body
 .site-intro
 {
     font-size: 18px;
-    font-family: CoreREG, serif;
+    font-family: 'Ubuntu', sans-serif;
     line-height: 1;
     color: #777
 }
@@ -121,13 +111,13 @@ h2, h3, p
 .main-text
 {
     color: #8ba644;
-    font-family: CoreSNS, serif;
+    font-family: "Open Sans Extrabold",sans-serif;
 }
 
 .main-text2
 {
     color: #333333;
-    font-family: CoreSNS, serif;
+    font-family: "Open Sans Extrabold",sans-serif;
 }
 
 img

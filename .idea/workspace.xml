@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67dc23bb-aa14-4cbc-80be-03da4b883ff9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sne/linux_inst.tar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ramizdemiurge.github.io.iws" />
@@ -595,7 +594,7 @@
       <workItem from="1474736283536" duration="3219000" />
       <workItem from="1476415484510" duration="3746000" />
       <workItem from="1476419721913" duration="31000" />
-      <workItem from="1476442354253" duration="79000" />
+      <workItem from="1476442354253" duration="94000" />
     </task>
     <task id="LOCAL-00001" summary="gpg">
       <created>1474736702276</created>
@@ -611,11 +610,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476418987425</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="inst files for linux">
+      <created>1476442445810</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1476442445810</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8652000" />
+    <option name="totallyTimeSpent" value="8667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="59" width="1221" height="660" extended-state="0" />
@@ -663,7 +669,8 @@
     <MESSAGE value="gpg" />
     <MESSAGE value="Some updates" />
     <MESSAGE value="sne page" />
-    <option name="LAST_COMMIT_MESSAGE" value="sne page" />
+    <MESSAGE value="inst files for linux" />
+    <option name="LAST_COMMIT_MESSAGE" value="inst files for linux" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

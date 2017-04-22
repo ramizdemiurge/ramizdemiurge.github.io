@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e98ccd51-a1cc-4e5b-bcf8-ea00232c42a1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/ramizdemiurge.github.io.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crow.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/round.html" afterPath="$PROJECT_DIR$/round.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="round.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="round.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/round.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -56,6 +48,16 @@
               <folding>
                 <element signature="n#src#0;n#script#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crow.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crow.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="127" lean-forward="false" selection-start-line="8" selection-start-column="127" selection-end-line="8" selection-end-column="127" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -82,6 +84,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/round.html" />
+        <option value="$PROJECT_DIR$/crow.html" />
       </list>
     </option>
   </component>
@@ -543,7 +546,7 @@
       <workItem from="1482169664311" duration="5663000" />
       <workItem from="1482184769521" duration="33000" />
       <workItem from="1482316240218" duration="99000" />
-      <workItem from="1492902983201" duration="229000" />
+      <workItem from="1492902983201" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="upd">
       <created>1492903088458</created>
@@ -552,11 +555,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492903088458</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upd">
+      <created>1492903217937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1492903217937</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15097000" />
+    <option name="totallyTimeSpent" value="15349000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -731,6 +741,14 @@
           <folding>
             <element signature="n#src#0;n#script#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="127" lean-forward="false" selection-start-line="8" selection-start-column="127" selection-end-line="8" selection-end-column="127" />
+          <folding />
         </state>
       </provider>
     </entry>
